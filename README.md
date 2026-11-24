@@ -90,3 +90,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: deepfake-video-maker, deepfake, face-swap, video, one-photo, local, batch, ai, video-maker, cli, developer-tools, open-source, windows, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+deepfake face-swap video one-photo local batch ai video-maker deepfake-maker face-video-swap deepfake-video-maker windows portable prebuilt x64 free download
+related: deepfake, face-swap, video, one-photo, local, batch, ai, video-maker
